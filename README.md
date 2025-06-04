@@ -28,13 +28,13 @@ Runs **32 comprehensive test cases**. Pass all to unlock the hidden clue!
 
 Complete all 32 test cases successfully to reveal a hidden clue!
 
-## 📁 Files
+## Files
 
 - `solution.py` - **Edit this file** with your implementation
 - `test_runner.py` - Run this for full testing (32 tests)
 - `linkedlist.py` - Utilities (don't edit)
 
-## 🔧 Requirements
+## Requirements
 
 - Python 3.7+
 - Each node value is unique 
@@ -42,7 +42,7 @@ Complete all 32 test cases successfully to reveal a hidden clue!
 - 1 ≤ list length ≤ 1000
 - 1 ≤ node values ≤ 10000
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 **Function not found**: Make sure your function is named exactly `has_cycle`
 
