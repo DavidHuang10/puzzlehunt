@@ -1,8 +1,6 @@
 """
 Linked List Cycle Detection Challenge
 
-Your task: Implement the has_cycle function to detect if a linked list has a cycle.
-
 Problem Description:
 Given the head of a linked list where each node has a unique value, determine 
 if the linked list has a cycle in it.
