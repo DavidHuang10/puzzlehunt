@@ -187,9 +187,9 @@ def decrypt_clue(test_results_key):
     Returns:
         str: The decrypted clue
     """
-    # Encrypted clue (XOR encrypted with key "ALLPASS32")
-    encrypted_data = [34, 45, 33, 53, 51, 60, 61]  # XOR encrypted "cameron"
-    key = "ALLPASS32"  # Expected key when all 32 tests pass
+    
+    encrypted_data = [34, 45, 33, 53, 51, 60, 61]  
+    key = "ALLPASS32" 
     
     # Verify the key matches (only works if all tests passed)
     if test_results_key != key:
